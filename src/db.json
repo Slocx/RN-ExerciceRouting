@@ -1,0 +1,19 @@
+{
+    "utilisateurs": [
+      {
+        "id": 1,
+        "prenom": "Simon",
+        "nom": "Maniez"
+      },
+      {
+        "id": 2,
+        "prenom": "Eric",
+        "nom": "Maniez"
+      },
+      {
+        "id": 3,
+        "prenom": "Flavien",
+        "nom": "Maniez"
+      }
+    ]
+}
